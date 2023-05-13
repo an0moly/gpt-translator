@@ -1,0 +1,13 @@
+{
+    "name": "translation-app",
+    "version": "1.0.0",
+    "description": "A translation app built with Node.js",
+    "main": "app.js",
+    "dependencies": {
+      "axios": "latest",
+      "body-parser": "latest",
+      "dotenv": "latest",
+      "express": "latest",
+      "socket.io": "latest"
+    }
+  }
